@@ -1,0 +1,35 @@
+.form1{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(255, 192, 203, 0.748);
+    align-items: center;
+    height: 400px;
+    width: 700px;
+    border-radius: 30px;
+    font-size: large;
+    justify-content: center;
+    padding: 20px;
+
+}
+
+.body1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+}
+.placeholder1{
+    margin: 20px;
+    width: 300px;
+    height: 25px;
+}
+.boton{
+    display: flex;
+}
+.boton1{
+    margin: 20px;
+    width: 200px;
+    height: 25px;
+    border-radius: 10px;
+    
+}
